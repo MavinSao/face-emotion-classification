@@ -36,7 +36,7 @@ Run the main training script to train the model on the FER-2013 dataset.
 2. Real-time Emotion Detection: 
 Use the play script to start the webcam feed and classify emotions in real-time.
    ```bash
-   python main.py
+   python play.py
    
 ## Results
 After training, the model's performance can be evaluated using accuracy and loss graphs. The real-time emotion detection displays the predicted emotion and confidence score directly on the webcam feed, providing an interactive way to test the model.
